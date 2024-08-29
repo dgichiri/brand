@@ -39,4 +39,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" Welcome to CEO's Appreciation Luncheon. "+msg)
+    st.write(name +" ,Welcome to CEO's Appreciation Luncheon. "+msg)
