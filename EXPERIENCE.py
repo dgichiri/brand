@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to CEO's Office Appreciation Luncheon Welcome Message
+# Welcome to CEO's Appreciation Luncheon
         
          """)
 
