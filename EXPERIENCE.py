@@ -10,7 +10,7 @@ import random
 
 st.write("""
  
-# Welcome to MOMBASA where IMPOSSIBLE ENDS HERE
+# IMPOSSIBLE ENDS HERE
         
          """)
 
