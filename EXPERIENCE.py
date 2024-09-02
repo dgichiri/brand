@@ -29,7 +29,6 @@ msgs = ['Your tech insights are like hidden gems in the digital finance landscap
         'Your warmth and appreciation for people radiates all through',
          'Your skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape. Keep building and fortifying our digital foundation! Keep on Shining ',
 'Your tech insighats are like hidden gems in the digital finance landscape – profound, impactful, and always ahead of the curve. We appreciate you! Keep on Shining',
-'Like Amelia Earhart's courage in the face of the unknown, your determination in tackling challenges is truly inspiring, keep blazing trails, Keep on Shining.',
 'Your dedication to excellence is like a heavenly virtue, infusing our Brand Experiences with the essence of success and achievement! Keep on Shining! ',
 'Your tech insights are like hidden gems in the digital finance landscape – profound, impactful, and always ahead of the curve. We appreciate you! Keep on Shining',
 'Your tech skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape. Keep building and fortifying our digital foundation’.,
