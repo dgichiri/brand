@@ -10,24 +10,31 @@ import random
 
 st.write("""
  
-# IMPOSSIBLE ENDS HERE
+# GROW WITH SAFARICOM BUSINESS COAST EDITION
         
          """)
 
-msgs = ['Your tech insights are like hidden gems in the digital finance landscape.',
-        'Your determination in tackling tech challenges is truly inspiring',
-        'Your dedication to excellence is like a heavenly virtue, infusing our projects with the essence of success and achievement',
-        'Your tech skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape',
-        'You demonstrates a high level of creativity in developing innovative brand communication strategies',
-        'Your tech insights are like guiding stars in the digital universe, illuminating paths to innovation and progress. Keep shining bright and leading the way',
-        'Your determination in the face of technical challenges is like a force of nature. Your resilience and tenacity propel us forward, overcoming obstacles and achieving greatness.',
-        'Your tech expertise is like a cornerstone, providing stability and strength to our digital endeavors. Keep building and fortifying our technological foundations!',
-        'Your tech insights are like a guiding light, illuminating the path to innovation and progress.',
-        'Your strategic thinking and problem-solving abilities are invaluable assets to our team. Keep shining bright!',
-        'Looking gorgeous as ever! loving the outfit also, we see the glow.',
-        'Your bubbly yet grounded approach to everything is a breath of fresh air in this tech space. You are doing well, keep up!',
-        'Your warmth and appreciation for people radiates all through',
-         'Your skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape. Keep building and fortifying our digital foundation! Keep on Shining ',
+msgs = [ 'Karibu sana! Welcome to our vibrant business forum, where Kenyan entrepreneurs connect and grow',
+         'Welcome on board! We're excited to have you join our Kenyan business community',
+         'A heartfelt welcome to all business owners in Kenya Let's inspire and learn from each other',
+         'Step into our forum with a warm welcome! Excited to have Kenyan business minds together',
+         'Kenyan business owners, a warm welcome to you! Share your journey, learn from others',
+         'Welcome! Your expertise and insights will enrich our Kenyan business forum',
+         'A warm welcome to all visionary business owners in Kenya Let's build a stronger community together',
+         'Glad to have you with us, Kenyan business owners! Let's collaborate, learn, and succeed',
+         'Welcome to a place of shared knowledge and growth Kenyan business owners, let's thrive!',
+         'Heartfelt welcome to our Kenyan business forum! Your presence will make a difference',
+         'Welcome, Kenyan entrepreneurs! Your energy and ideas will fuel our forum',
+         'A warm welcome to all, as we come together to empower Kenyan businesses',
+         'Excited to have you join our Kenyan business community! Let's support each other',
+         'Welcome to a space of collaboration and growth Kenyan business owners, let's unlock our potential',
+         'A warm welcome to our forum! Kenyan business owners, we're excited to learn from you',
+         'Welcome, innovators! Your creativity will inspire our Kenyan business forum',
+         'Heartfelt welcome to all Kenyan business owners! Let's work together to create success stories',
+         'Welcome to a community that values your expertise, Kenyan entrepreneurs',
+         'A warm welcome to our Kenyan business forum! Your voice matters here',
+         'Welcome, leaders! Your guidance will steer our Kenyan business community to new heights',
+
       
         
         ]
@@ -42,4 +49,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" ,Welcome to Impossible Ends Here. "+msg)
+    st.write(name +" ,Welcome to Grow With Safaricom Business. "+msg)
