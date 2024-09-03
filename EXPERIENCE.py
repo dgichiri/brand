@@ -15,7 +15,7 @@ st.write("""
          """)
 
 msgs = [ 'Karibu sana! Welcome to our vibrant business forum, where Kenyan entrepreneurs connect and grow',
-                  'A heartfelt welcome to all business owners in Kenya Let's inspire and learn from each other',
+         'A heartfelt welcome to all business owners in Kenya. Let's inspire and learn from each other',
          'Step into our forum with a warm welcome! Excited to have Kenyan business minds together',
          'Kenyan business owners, a warm welcome to you! Share your journey, learn from others',
          'Welcome! Your expertise and insights will enrich our Kenyan business forum',
