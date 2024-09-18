@@ -17,7 +17,6 @@ st.write("""
 msgs = [ 'Hey there, top cat! Hoping your day is as groovy as a roller disco',
           'Greetings, retro rockstar! Ready to make the most of today?',
           'Morning, my rad friend! Let's seize the day like it's 1982.',
-          'Hi there, cool customer! The 80s called, they're proud of your style.",
           'Hello, decade darling! Fired up for a far-out day?',
           'Aloha, 80s aficionado! May your day be as bright as neon lights.',
           'Bonjour, retro enthusiast! Ready to make today a total blast?',
