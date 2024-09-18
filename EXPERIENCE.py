@@ -33,7 +33,7 @@ msgs = [ 'Hey there, top cat! Hoping your day is as groovy as a roller disco',
           'Howdy, 80s hero! Here's to a day as bold as a synth-pop beat.',
           'Hey, 80s whiz! Let's make today as exciting as a video game.',
           'Hi, 80s ace! May your day be as thrilling as a high-speed chase.',
-          'Greetings, 80s star! Here's to a day as dazzling as a music video.'
+          'Greetings, 80s star! Here's to a day as dazzling as a music video.',
             
         ]
 
