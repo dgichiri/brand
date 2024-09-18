@@ -14,20 +14,27 @@ st.write("""
         
          """)
 
-msgs = ['Your tech insights are like hidden gems in the digital finance landscape.',
-        'Your determination in tackling tech challenges is truly inspiring',
-        'Your dedication to excellence is like a heavenly virtue, infusing our projects with the essence of success and achievement',
-        'Your tech skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape',
-        'You demonstrates a high level of creativity in developing innovative brand communication strategies',
-        'Your tech insights are like guiding stars in the digital universe, illuminating paths to innovation and progress. Keep shining bright and leading the way',
-        'Your determination in the face of technical challenges is like a force of nature. Your resilience and tenacity propel us forward, overcoming obstacles and achieving greatness.',
-        'Your tech expertise is like a cornerstone, providing stability and strength to our digital endeavors. Keep building and fortifying our technological foundations!',
-        'Your tech insights are like a guiding light, illuminating the path to innovation and progress.',
-        'Your strategic thinking and problem-solving abilities are invaluable assets to our team. Keep shining bright!',
-        'Looking gorgeous as ever! loving the outfit also, we see the glow.',
-        'Your bubbly yet grounded approach to everything is a breath of fresh air in this tech space. You are doing well, keep up!',
-        'Your warmth and appreciation for people radiates all through',
-         'Your skills are like the backbone of our digital infrastructure, providing stability and reliability in an ever-changing landscape. Keep building and fortifying our digital foundation! Keep on Shining ',
+msgs = [''Hey there, top cat! Hoping your day is as groovy as a roller disco. ',
+'Greetings, retro rockstar! Ready to make the most of today? ',
+'Morning, my rad friend! Let's seize the day like it's 1982. ',
+'Hi there, cool customer! The 80s called, they're proud of your style. ',
+'Hello, decade darling! Fired up for a far-out day? ',
+'Aloha, 80s aficionado! May your day be as bright as neon lights. ',
+'Bonjour, retro enthusiast! Ready to make today a total blast? ',
+'Howdy, 80s fan! Here's to a day as cool as a polaroid picture. ',
+'Hey, time traveler! Let's make the 80s proud today. ',
+'Hi, retro guru! May your day be as legendary as the 80s. ',
+'Greetings, 80s guru! Ready to rock this day like a power ballad? ',
+'Hello, 80s devotee! Let's make today as memorable as a mixtape. ',
+'Hey, 80s champion! Here's to a day as epic as a blockbuster movie. ',
+'Hi there, 80s legend! May your day be as vibrant as a Rubik's cube. ',
+'Aloha, 80s maverick! Ready to navigate today like a compass? ',
+'Bonjour, 80s trendsetter! May your day be as bright as a sunset cruise. ',
+'Howdy, 80s hero! Here's to a day as bold as a synth-pop beat. ',
+'Hey, 80s whiz! Let's make today as exciting as a video game. ',
+'Hi, 80s ace! May your day be as thrilling as a high-speed chase. ',
+'Greetings, 80s star! Here's to a day as dazzling as a music video. ',
+
       
         
         ]
