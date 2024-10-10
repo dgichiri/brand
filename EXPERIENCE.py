@@ -70,4 +70,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" ,CAribu 1. "+msg)
+    st.write(name +" ,CAribu. "+msg)
