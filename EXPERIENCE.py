@@ -11,7 +11,7 @@ import random
 
 st.write("""
  
-# SOUL PICNIC WELCOMES YOU
+# THE CA DREAM TEAM 
         
          """)
 
@@ -49,4 +49,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" ,Welcome to Soul Picnic Edition 1. "+msg)
+    st.write(name +" ,CAribu 1. "+msg)
