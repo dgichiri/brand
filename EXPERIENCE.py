@@ -11,7 +11,7 @@ import random
 
 st.write("""
  
-# THE CA DREAM TEAM 
+# THE WATERING HOLE - RECONNECT.REFRESH.REINVENT. 
         
          """)
 
@@ -70,4 +70,4 @@ if st.button('SUBMIT'):
     name = f_name.capitalize()
     msg = msgs[intpos]
     
-    st.write(name +" ,CAribu. "+msg)
+    st.write(name +" ,Karibu. "+msg)
