@@ -11,7 +11,7 @@ import random
 
 st.write("""
  
-# THE WATERING HOLE - RECONNECT.REFRESH.REINVENT. 
+# THE EBU TEAM BUILDING - RECHARGE.RECONNECT.RE-ENERGISE. 
         
          """)
 
