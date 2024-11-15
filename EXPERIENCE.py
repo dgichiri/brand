@@ -15,7 +15,7 @@ st.write("""
         
          """)
 
-msgs = [ "  "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+msgs = [ "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
     "The only way to do great work is to love what you do.",
     "Success usually comes to those who are too busy to be looking for it.",
     "Don't be afraid to give up the good to go for the great.",
