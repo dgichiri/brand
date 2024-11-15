@@ -11,50 +11,20 @@ import random
 
 st.write("""
  
-# THE EBU TEAM BUILDING - RECHARGE.RECONNECT.RE-ENERGISE. 
+# GROW WITH SAFARICOM BUSINESS - MT KENYA EDITION. 
         
          """)
 
-msgs = [ "  Let’s recharge our energies, bond as a team, and thrive together",
-" Thrilled to have you here! Together, we’ll recharge, bond, and thrive",
-" Welcome aboard! Let’s recharge our spirits, bond closely, and thrive in our goals",
-" Excited to start this journey with you! Let’s recharge, bond, and thrive",
-" Ready to recharge, bond, and thrive as a team?",
-" Together, we’ll recharge, bond, and thrive",
-" Let’s recharge our creativity, bond over ideas, and thrive in success",
-" Happy to have you! Let’s recharge, bond, and thrive together",
-" Let’s recharge our efforts, bond as a team, and thrive in our mission",
-" Excited to collaborate with you! Let’s recharge, bond, and thrive",
-" Together, we’ll recharge our strengths, bond, and thrive",
-" Let’s recharge our enthusiasm, bond as a team, and thrive",
-" Ready to recharge, bond, and thrive in our journey?",
-" Thrilled to have you! Let’s recharge, bond, and thrive together",
-" Let’s recharge our passion, bond over our goals, and thrive",
-" Excited to work with you! Let’s recharge, bond, and thrive",
-" Together, we’ll recharge our energies, bond, and thrive",
-" Let’s recharge our creativity, bond as a team, and thrive",
-" Ready to recharge, bond, and thrive in our endeavors?",
-" Happy to have you here! Let’s recharge, bond, and thrive together",
-" Let’s recharge our efforts, bond closely, and thrive",
-" Excited to collaborate! Let’s recharge, bond, and thrive",
-" Together, we’ll recharge our strengths, bond, and thrive",
-" Let’s recharge our enthusiasm, bond as a team, and thrive",
-" Ready to recharge, bond, and thrive in our mission?",
-" Thrilled to have you! Let’s recharge, bond, and thrive together",
-" Let’s recharge our passion, bond over our goals, and thrive",
-" Excited to work with you! Let’s recharge, bond, and thrive",
-" Together, we’ll recharge our energies, bond, and thrive",
-" Let’s recharge our creativity, bond as a team, and thrive",
-" Ready to recharge, bond, and thrive in our journey?",
-" Happy to have you here! Let’s recharge, bond, and thrive together",
-" Let’s recharge our efforts, bond closely, and thrive",
-" Excited to collaborate! Let’s recharge, bond, and thrive",
-" Together, we’ll recharge our strengths, bond, and thrive",
-" Let’s recharge our enthusiasm, bond as a team, and thrive",
-" Ready to recharge, bond, and thrive in our endeavors?",
-" Thrilled to have you! Let’s recharge, bond, and thrive together",
-" Let’s recharge our passion, bond over our goals, and thrive",
-" Excited to work with you! Let’s recharge, bond, and thrive",
+msgs = [ "  "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+    "The only way to do great work is to love what you do.",
+    "Success usually comes to those who are too busy to be looking for it.",
+    "Don't be afraid to give up the good to go for the great.",
+    "I find that the harder I work, the more luck I seem to have.",
+    "Success is not in what you have, but who you are.",
+    "The road to success and the road to failure are almost exactly the same.",
+    "Success is not how high you have climbed, but how you make a positive difference to the world.",
+    "Success is not the absence of failure; it's the persistence through failure.",
+    "The only limit to our realization of tomorrow is our doubts of today.",
 
 
                      
