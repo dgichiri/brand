@@ -11,7 +11,7 @@ import random
 
 st.write("""
  
-# GROW WITH SAFARICOM BUSINESS - MT KENYA EDITION. 
+# SAFARICOM INVESTOR FORUM 2025. 
         
          """)
 
