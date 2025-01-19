@@ -22,6 +22,10 @@ msgs = [ "Welcome to Mombasa, the vibrant coastal gem of Kenya, where the Indian
 "Thank you for joining us. Let’s make these two days transformative."
 
 
+
+ " Regards",
+ "Dr. Peter Ndegwa"
+
                      
         ]
 
