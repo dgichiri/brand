@@ -19,8 +19,11 @@ msgs = [ "Welcome to Mombasa, the vibrant coastal gem of Kenya, where the Indian
 
 "This forum is more than a meeting; it is a call to connect, engage, and inspire. Together, we will delve into the bold vision of becoming Africa’s leading purpose-driven technology company by 2030. We are not just building a business; we are creating a legacy that empowers communities, drives sustainable growth, and harnesses technology as a force for good. Your presence here signifies a shared belief in this vision. Over the next two days, let us challenge assumptions, spark innovation, and forge partnerships that will redefine what is possible. Let us draw inspiration from Mombasa’s rich history and use it to fuel our journey toward a future where technology serves humanity and Africa leads the way."
 
-"Thank you for joining us. Let’s make these two days transformative."
+"Thank you for joining us."
+"                          "
+"Dr. Peter Ndegwa."        
 
+ 
 
 
                     
